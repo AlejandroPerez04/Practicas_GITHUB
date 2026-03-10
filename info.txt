@@ -1,0 +1,7 @@
+Nombre del alumno: Alejandro Daniel Perez Avila
+
+Fecha: 10 de marzo de 2026.
+
+Objetivo de la actividad: Aprender lo que es un Pull Request. 
+
+Qué es un Pull Request (definición breve): Un pull request (PR) es una solicitud en plataformas como GitHub o GitLab para fusionar cambios de código de una rama a otra.
