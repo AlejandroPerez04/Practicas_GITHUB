@@ -1,3 +1,4 @@
 Proyecto: Practicas_GITHUB
+Responsable: Equipo A
 Responsable: Equipo B
 Version: 1.0
